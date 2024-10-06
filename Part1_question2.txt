@@ -19,5 +19,5 @@ Answer: by using var_dump, it will simply display the information about a variab
 var_dump($person);
 
 output:
-	["name"] => string(5) "Alice"
-	["age"] => int(25)
+	string(5) "Alice"
+	int(25)
